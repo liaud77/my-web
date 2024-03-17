@@ -1,7 +1,14 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "My Writing Samples"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In this page, you can see my English writing samples, including:
+- [tutorial](_portfolio/tutorial)
+- [web article](_portfolio/web-article)
+- [style guide](_portfolio/style-guide/translation-style-guide.md)
+- [translators manual](_portfolio/style-guide/translators-manual.md)
+- [documentation of a corpus linguistic project](_portfolio/linguistic-project)
+- [academic writing](_portfolio/academic-writing)
+
+You can also see [here](_portfolio/The-Daughter-of-Time.md), an English-Chinese literature translation excerpt.

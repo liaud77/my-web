@@ -3,20 +3,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "how-to"
-    url: /tutorial/
-
-  - title: "Web Article"
-    url: /web-article/
-
-  - title: "Style Guide & Manual"
-    url: /style-guide/
-
-  - title: "Academic Writing"
-    url: /academic-writing/
-  
-  - title: "R Project"
-    url: /linguistic-project/
+  - title: "Writing Samples"
+    url: /portfolio/
 
   # - title: "Introduction Video"
   #  url: /introduction-video/    
