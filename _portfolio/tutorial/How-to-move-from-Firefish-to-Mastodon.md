@@ -1,14 +1,14 @@
 ---
-title: "Tutorial"
-excerpt: "This is a step-by-step guide of account migration from Firefish to Mastodon. Target readers are Fediverse users who are unfamiliar with different Fediverse projects."
-collection: portfolio
+title: "How to move from Firefish to Mastodon"
+author: "Audrey Li"
 date: "2024-03-17" 
 ---
 
 # How to move from Firefish to Mastodon
+> This is a step-by-step guide of account migration from Firefish to Mastodon. Target readers are Fediverse users who are unfamiliar with different Fediverse projects.
+> 
+This tutorial guides you to migrate your current Firefish account to a new Mastodon account.
 
-> This tutorial guides you to migrate your current Firefish account to a new Mastodon account.
->
 Results:
 
 In your current Firefish account:
