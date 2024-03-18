@@ -1,12 +1,25 @@
 ---
 title: "How to move from Firefish to Mastodon"
 author: "Audrey Li"
-date: "2024-03-17"
+date: "2024-03-17" 
+collection: portfolio
+permalink: /files/how-to/
 ---
 
-# How to move from Firefish to Mastodon
+This tutorial guides you to migrate your current Firefish account to a new Mastodon account.
 
-- [How to move from Firefish to Mastodon](#how-to-move-from-firefish-to-mastodon)
+Results:
+
+In your current Firefish account:
+- There will be a note displaying: **User has moved to a new account: @username@server.com**;
+- Your will not be able to make new posts;
+- Old posts will remain untouched.
+
+In your new Mastodon account:
+- Some data can be imported: your followers, followed users, user lists, muted users, and blocked users;
+- Some data can NOT be imported: your old posts, likes, bookmarks.
+
+**Table of Contents**
 - [00. Prerequisites](#00-prerequisites)
 - [01. Export Your Data](#01-export-your-data)
 - [02. Create A New Mastodon Account](#02-create-a-new-mastodon-account)
@@ -21,19 +34,6 @@ date: "2024-03-17"
 - [06. Finally](#06-finally)
 - [07. FAQs](#07-faqs)
 - [08. See Also](#08-see-also)
-
-This tutorial guides you to migrate your current Firefish account to a new Mastodon account.
-
-Results:
-
-In your current Firefish account:
-- There will be a note displaying: **User has moved to a new account: @username@server.com**;
-- Your will not be able to make new posts;
-- Old posts will remain untouched.
-
-In your new Mastodon account:
-- Some data can be imported: your followers, followed users, user lists, muted users, and blocked users;
-- Some data can NOT be imported: your old posts, likes, bookmarks.
    
 # 00. Prerequisites 
 Before moving forward, the reader should have:

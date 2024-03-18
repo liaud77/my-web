@@ -1,8 +1,9 @@
 ---
 title: "Deciphering Humor in Translation: A Structuralist Approach through Saussure's Lens"
-description: "This was one of the web articles I wrote for a communication company's educational channel, target readers were translation students and freelance translators."
 author: "Audrey Li"
-date: "2020-09-16"
+date: "2021-06-16" 
+collection: portfolio
+permalink: /files/web-article/
 ---
 
 In this article, you will learn about:
@@ -14,8 +15,7 @@ In this article, you will learn about:
   
 Estimated reading time: 10 minutes. 
 
-# Deciphering Humor in Translation: A Structuralist Approach through Saussure's Lens
-
+---
 You might have heard about a joke that goes: "Someone has two parts of their brain: the 'left' and the 'right'. In the left side, there's nothing right. In the right side, there's nothing left."
 
 Have you ever thought about how it can be translated into other languages in a way that preserves its humor for the target audience?
@@ -85,7 +85,7 @@ Try it yourself before we reveal the reference translation!
 
 The translation gave up the literal form of "Xia Ke", neither transliterating nor explaining its meaning. Instead, it finds an English name, Carlos Owen, that phonetically resembles "class over".
 
-Translators need to uncover the logic behind the humor and convey **the signified** to master a "Play on the Signifier".
+Translators need to uncover the logic behind the humor and convey the **signified** to master a "Play on the Signifier".
 
 ## Translating Humor: Difficult or Impossible?
 <a id="elements-to-look-into-when-translating-humor"></a>

@@ -5,6 +5,9 @@ main:
 
   - title: "Writing Samples"
     url: /portfolio/
+    sublinks:
+      - title: "academic writing"
+        url: /portfolio/academic-writing/
 
   # - title: "Introduction Video"
   #  url: /introduction-video/    

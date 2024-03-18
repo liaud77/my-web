@@ -1,10 +1,11 @@
-# A Corpus-Based Comparative Analysis of Two English Translations of 'Sanguo Yanyi'
-
-author: Audrey Li
-
-date: 2024-03-16
-
 ---
+title: "Linguistic Project Documentation"
+author: "Audrey Li"
+date: "2024-03-16" 
+collection: portfolio
+permalink: /files/linguistic-project/
+---
+# A Corpus-Based Comparative Analysis of Two English Translations of 'Sanguo Yanyi'
 
 # 01. Introduction
 ## 1.1 Background
@@ -188,10 +189,9 @@ Now we have a comparison of words length of text_1 and text_2. Together with the
 
 ## 2.5 POS Analysis
 
-To find out the frequency of each type of POS tags, firstly they will be categorized into 16 kinds, by the following patterns:
+To find out the frequency of each type of POS tags, firstly they will be categorized into 13 kinds, by the following patterns:
 - Article: Starts with "AT"
 - Conjunction: "C"
-- Determiner: Starts with "PDT", or "DT", or "WDT"
 - Existential_there: "EX"
 - Genitive_s: "GE"
 - Preposition: Starts with "I"
@@ -202,8 +202,7 @@ To find out the frequency of each type of POS tags, firstly they will be categor
 - Adverb: Starts with "R"
 - Infinitive marker_to: "TO"
 - Verb: Starts with "V"
-- Negation: "NEG"
-- Formulas, foreign words, interjections, letters: "FW"
+- Other: Any other types that do not fit into the above categories
 
 ### 2.5.1 Categorize POS tags
 

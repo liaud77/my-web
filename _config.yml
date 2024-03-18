@@ -14,17 +14,17 @@ name                     : &name "Audrey Li"
 description              : &description "Bilingual Technical Communicator"
 url                      : https://liaud77.github.io/audrey-page/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "liaud77/audrey-page"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/avatar.JPG"
+  avatar           : "my-pfp.png"
   name             : "Audrey Li"
   pronouns         : "she/her"  
-  bio              : "Multilingual Technical Content Specialist | Bridging Technology and Communication | Passionate about Cross-Cultural Communication"
+  bio              : "Bilingual Technical Communicator"
   location         : "Finland"
   employer         : "University of Eastern Finland"
   uri              : # URL
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/liaud/"
+  linkedin         : "liaud"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

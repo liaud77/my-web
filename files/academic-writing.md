@@ -1,11 +1,15 @@
 ---
-title: "Strategies for Restoring Readers' Participation in Translation of Detective Novels"
+title: "Academic Writing Sample"
 author: "Audrey Li"
-date: "2021-12"
+date: "2022-03-10" 
+collection: portfolio
+permalink: /files/academic-writing/
 ---
 
 # Strategies for Restoring Readers' Participation in Translation of Detective Novels
 ## A Case Study of the English-Chinese Translation of *The Daughter of Time* 
+
+> This is an excerpt from my bachelor's thesis, written on 2022-03-19. 
 
 As a subgenre of popular literature, a detective novel describes the story of a detective with excellent reasoning ability who collects evidence, solves a big mystery and punishes the culprit. When Western detective novels were first introduced into China, translators would change the narrative sequence and perspective of the original texts to fit the traditional Chinese literary paradigm of the time. However, with the development of cross-cultural exchanges, Western culture and mindset have become less exotic and strange to today’s Chinese readers, as a result, the said translation strategy is no longer applicable. An up-to-date translator needs to be faithful to the original text, restore the narrative style and characteristics of the original work, and enhance the reading experience for Chinese readers. 
 
@@ -22,3 +26,17 @@ Based on the analysis of the textual characteristics of this novel, the difficul
 In response to these mistakes, first of all, translators need to analyze the purpose of the writer accurately and meticulously, not to disrupt the narrative sequence of the original work, and to analyze the writing style of the original text before omitting or adding any information. Even if some information seems irrelevant to the main story, there could be unrevealed considerations behind it. Secondly, translators should restore the characteristics of the characters, analyze their personalities and roles in the story before deciding whether direct quotations can be converted into indirect ones, or whether information can be reduced or simplified. Finally, translators’ annotation should be able to effectively complement the translated text, and add the speakers and contextual clues in places that may cause misunderstanding to relieve the possible burden in the reading experience for target readers. 
 
 Deriving all translation cases analyzed and discussed from the novel *The Daughter of Time*, this paper provides more analytical examples for the study of English-Chinese translation of detective novels. In addition, readers’ participation is a common issue that must be taken seriously in many genres of literature, and the translation strategies proposed in this paper can also be referred to for translators who encounter similar problems in the future.
+
+---
+
+# A Comparative Research on China's Legislation of Money Laundering and the Difficulties of Its Incrimination 
+
+> This is an excerpt from my bachelor's thesis, written on 2019-06-10. 
+
+China's anti-money laundering legislation has evolved and developed for decades, yielding significant successes. However, in contrast to nations that have actively combated this crime since the turn of the century, there are still shortcomings that are difficult to overlook. 
+
+When comparing China's legislation development to its incrimination of money laundering, a striking situation calls for attention: over the years, only a small amount of cases have resulted in convictions for money laundering. This demonstrates some hazy lines between the regulation and implementation of money laundering. 
+
+This paper intends to analyze the legislation on money laundering in Japan and the United States, two representatives of Civil Law and Common Law, before discussing the limitations of China's legislation and bringing forward suggestions for improvement. 
+
+In the following chapters, I will first introduce the value and roadblocks of this research. Then, I will go over the fundamentals of the legislation on money laundering, which includes money laundering's definition, the value of its incrimination, and its historical development in China. In the third and fourth chapters, I will compare the status quo of money laundering legislation under Common Law and Civil Law, before analyzing the limitations of China's legislation. Finally, four strategies for enhancing and improving the incrimination of money laundering will be suggested: a. expand the scope of predicate crime; b. broaden the scope of subject to liability; c. clear the connotation of indirect intention and "should know"; d. build a stronger connection with international anti-money laundering legislation.
