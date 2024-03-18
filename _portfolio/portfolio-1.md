@@ -1,4 +1,7 @@
-# My Writing Samples
+---
+title: "My Writing Samples"
+collection: portfolio
+---
 
 In this page, you can see a list of my English writing samples.
 
