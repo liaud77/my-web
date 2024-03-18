@@ -12,9 +12,9 @@ title                    : "Audrey's Home Page"
 title_separator          : "-"
 name                     : &name "Audrey Li"
 description              : &description "Bilingual Technical Communicator"
-url                      : https://liaud77.github.io/audrey-page/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://liaud77.github.io/my-web/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "liaud77/audrey-page"
+repository               : "liaud77/my-web"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
