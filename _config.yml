@@ -12,8 +12,8 @@ title                    : "Audrey's Home Page"
 title_separator          : "-"
 name                     : &name "Audrey Li"
 description              : &description "Bilingual Technical Communicator"
-url                      : https://liaud77.github.io/my-web/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://liaud77.github.io" #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/my-web" # the subpath of your site, e.g. "/blog"
 repository               : "liaud77/my-web"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
