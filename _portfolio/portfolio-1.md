@@ -1,6 +1,6 @@
 ---
 title: "My Writing Samples"
-permalink: /portfolio/
+# permalink: /portfolio/
 ---
 
 In this page, you can see a list of my English writing samples.
