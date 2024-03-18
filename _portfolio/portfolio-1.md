@@ -5,7 +5,7 @@ permalink: /portfolio/
 
 In this page, you can see a list of my English writing samples.
 
-🔖 [Tutorial](https://liaud77.github.io/files/how-to/) - 03/2024
+🔖 [Tutorial](/files/how-to/) - 03/2024
 
 This is a step-by-step guide of account migration from Firefish to Mastodon. Target readers are Fediverse users who are unfamiliar with different Fediverse projects.  
 

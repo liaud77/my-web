@@ -3,7 +3,7 @@ title: "How to move from Firefish to Mastodon"
 author: "Audrey Li"
 date: "2024-03-17" 
 collection: portfolio
-permalink: https://liaud77.github.io/files/how-to/
+permalink: /files/how-to/
 ---
 
 This tutorial guides you to migrate your current Firefish account to a new Mastodon account.
