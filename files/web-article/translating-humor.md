@@ -2,8 +2,6 @@
 title: "Deciphering Humor in Translation: A Structuralist Approach through Saussure's Lens"
 author: "Audrey Li"
 date: "2021-06-16" 
-collection: portfolio
-permalink: /files/web-article/
 ---
 
 In this article, you will learn about:

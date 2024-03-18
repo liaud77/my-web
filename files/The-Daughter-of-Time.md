@@ -2,8 +2,6 @@
 title: "Literature Translation (中文)"
 author: "Audrey Li"
 date: "2021-01-06" 
-collection: portfolio
-permalink: /files/literature-translation/
 ---
 
 # Chinese Translation

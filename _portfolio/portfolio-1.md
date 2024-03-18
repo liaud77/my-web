@@ -1,11 +1,11 @@
 ---
 title: "My Writing Samples"
-permalink: /portfolio/
+# permalink: /portfolio/
 ---
 
 In this page, you can see a list of my English writing samples.
 
-🔖 [Tutorial](/files/how-to/) - 03/2024
+🔖 [Tutorial](/files/tutorial/How-to-move-from-Firefish-to-Mastodon.md) - 03/2024
 
 This is a step-by-step guide of account migration from Firefish to Mastodon. Target readers are Fediverse users who are unfamiliar with different Fediverse projects.  
 

@@ -2,8 +2,6 @@
 title: "Translation Style Guide"
 author: "Audrey Li"
 date: "2020-06-10" 
-collection: portfolio
-permalink: /files/style-guide/
 ---
 
 Table of Contents

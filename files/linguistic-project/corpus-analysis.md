@@ -2,8 +2,6 @@
 title: "Linguistic Project Documentation"
 author: "Audrey Li"
 date: "2024-03-16" 
-collection: portfolio
-permalink: /files/linguistic-project/
 ---
 # A Corpus-Based Comparative Analysis of Two English Translations of 'Sanguo Yanyi'
 
