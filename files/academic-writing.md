@@ -2,6 +2,7 @@
 title: "Academic Writing Sample"
 author: "Audrey Li"
 date: "2022-03-10" 
+permalink: /files/academic-writings
 ---
 
 # Strategies for Restoring Readers' Participation in Translation of Detective Novels

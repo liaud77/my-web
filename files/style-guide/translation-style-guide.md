@@ -2,6 +2,7 @@
 title: "Translation Style Guide"
 author: "Audrey Li"
 date: "2020-06-10" 
+permalink: /files/translation-style-guide
 ---
 
 Table of Contents
