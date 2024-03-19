@@ -1,15 +1,39 @@
 ---
-title: "Linguistic Project Documentation"
+title: "A Corpus-Based Comparative Analysis of Two English Translations of 'Sanguo Yanyi'"
 author: "Audrey Li"
 date: "2024-03-16" 
 collection: portfolio
 permalink: /files/linguistic-documentation
 ---
-# A Corpus-Based Comparative Analysis of Two English Translations of 'Sanguo Yanyi'
+
+**Table of Contents**
+- [01. Introduction](#01-introduction)
+  - [1.1 Background](#11-background)
+  - [1.2 Objectives](#12-objectives)
+  - [1.3 Research Question](#13-research-question)
+- [02. Data Collection and Methodology](#02-data-collection-and-methodology)
+  - [2.1 package dependencies](#21-package-dependencies)
+  - [2.2 Data Cleaning](#22-data-cleaning)
+  - [2.3 Corpus Annotation](#23-corpus-annotation)
+  - [2.4 Word Length Comparison](#24-word-length-comparison)
+    - [2.4.1 Compare the lengths on a block-level](#241-compare-the-lengths-on-a-block-level)
+    - [2.4.2 Calculate the mean value and standard deviation](#242-calculate-the-mean-value-and-standard-deviation)
+    - [2.4.3 Organize the output format](#243-organize-the-output-format)
+    - [2.4.4 Test the null hypothesis](#244-test-the-null-hypothesis)
+  - [2.5 POS Analysis](#25-pos-analysis)
+    - [2.5.1 Categorize POS tags](#251-categorize-pos-tags)
+    - [2.5.2 Count each POS category](#252-count-each-pos-category)
+- [03. Conclusion](#03-conclusion)
+  - [3.1 Findings and Interpretation](#31-findings-and-interpretation)
+  - [3.2 Overall Conclusion](#32-overall-conclusion)
+  - [3.3 Limitation](#33-limitation)
+
 
 # 01. Introduction
+
 ## 1.1 Background
-This research focuses on a comparative analysis of two English translations of Sanguo Yanyi, a classic Chinese novel by Luo Guanzhong. The novel, known for its epic scope and rich characterizations, plays a significant role in Chinese literature. The translations under scrutiny are:
+
+This is a comparative analysis of two English translations of Sanguo Yanyi, a classic Chinese novel by Luo Guanzhong. The novel, known for its epic scope and rich characterizations, plays a significant role in Chinese literature. The translations under comparison are:
 - *Romance of the Three Kingdoms* translated by *C. H. Brewett-Taylor*. First published by Shanghai: Kelly&Walsh in 1925. Its excerpt selected for analysis is hereinafter referred to as text_1.
 - *A Historical Novel of Three Kingdoms* translated by *Moss Roberts*. First published by Berkeley and Los Angeles: University of California Press in 1991. Its excerpt selected for analysis is hereinafter referred to as text_2.
 
@@ -25,7 +49,7 @@ The primary objective is to analyze and compare the two translations in terms of
 - What might these differences suggest about each translator's approach to maintaining the original text's narrative style?
 
 # 02. Data Collection and Methodology
-The methodology involves annotating the texts with POS and semantic codes, followed by a comparative analysis on a sentence level using mean word lengths. A t-test examines the significance of differences, and frequency counts of each type of POS tag compare the texts' most and least frequent tags.
+This study starts with annotating the corpus texts with POS and semantic tags, followed by a comparative analysis of mean word lengths on a sentence level. The significance of the length difference is examined by a t-test. Lastly, this study categorizes POS tags and analyzes their frequency, to shed light on the translation strategies employed by the two translators. 
 
 ## 2.1 package dependencies
 
@@ -41,7 +65,7 @@ library(openxlsx)
 ## 2.2 Data Cleaning
 This research used the [UCREL Semantic Analysis System (USAS)](https://ucrel-api.lancaster.ac.uk/usas/tagger.html) for both POS and semantic tagging.
 
-The output from USAS tool is stored in a `.xlsx` file, with no column names, and for words that have multiple semantic codes, the values are stored in separate columns. This step is to name each columns, and to concatenate the separated semantic codes into one column.
+The output from USAS tool is stored in a `.xlsx` file, with no column names, and for words that have multiple semantic codes, the values are stored in separate columns. This step is to name each column, and to concatenate the separated semantic codes into one column.
 
 ```r
 df <- read_excel(file.choose(), col_names = FALSE, col_types = "text")

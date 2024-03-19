@@ -1,10 +1,11 @@
 # main links links
 main:
-  - title: "CV"
-    url: /cv/
 
   - title: "Writing Samples"
     url: /portfolio/
+
+  - title: "CV"
+    url: /cv/
 
   # - title: "Introduction Video"
   #  url: /introduction-video/    
