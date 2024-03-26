@@ -26,7 +26,7 @@ In this page, you can see a list of my English writing samples.
 **Context:** This Style Guide, developed alongside the translator's manual, is designed to standardize and refine the translation process for literary works. It aims to serve translators, editors, reviewers, and the project manager by establishing clear stylistic and linguistic standards, ensuring the translated work resonates with the target audience while staying true to the original's spirit.
 
 ---
-📌 [Translators manual](/my-web/files/translators-manual) 
+📌 [Translator's Manual](/my-web/files/translators-manual) 
 
 **Context:** This manual, developed in conjunction with the Style Guide, serves as a comprehensive roadmap for a literary translation project. Target readers are translators, editors, reviewers, and the project manager. 
 
