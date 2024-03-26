@@ -6,34 +6,29 @@ permalink: /portfolio/
 
 In this page, you can see a list of my English writing samples.
 
-🔖 [Tutorial](/my-web/files/how-to) - 03/2024
+📌 [Tutorial](/my-web/files/tutorial) 
 
-This is a step-by-step guide of account migration from Firefish to Mastodon. Target readers are Fediverse users who are unfamiliar with different Fediverse projects.  
-
----
-🔖 [Linguistic project documentation](/my-web/files/linguistic-documentation) - 03/2024
-
-This is an academic solo project, a corpus-based comparative analysis using R. I am responsible for research design, data collection and analysis, result interpretation and presentation.  
+**Context:** I authored this tutorial as a step-by-step account migration guide for the Fediverse community, focusing on transitioning from Firefish to Mastodon. Drawing from my experiences with both platforms and recognizing a gap in available resources, this tutorial aims to assist Fediverse users unfamiliar with navigating between different projects.  
 
 ---
-🔖 [Academic writing](/my-web/files/academic-writings) - 03/2022
+📌 [Linguistic Project Documentation](/my-web/files/project-documentation) 
 
-This sample consists of excerpts from my bachelor's (2019) and master's (2022) thesis.
-
----
-🔖 [Web article](/my-web/files/translating-humor) - 06/2021
-
-This is one of the article series I wrote for a communication company's educational channel. Target readers are translation students and freelance translators. 
+**Context:** This was an academic solo project, using R packages to analyze the linguistic features of two written corpora. This project was completed within a month, the audience is any corpus linguistic student who is interested in applying R to linguistic research. 
 
 ---
-🔖 [Style guide](/my-web/files/translation-style-guide) - 06/2020
+📌 [Educational Blog](/my-web/files/translating-humor) 
 
-This is a translation style guide I wrote for a localization project. It regulates the usage of annotation, formatting, and other translation practices. Target readers are freelance translators, editors, and reviewers working on the subject matter project. 
-
----
-🔖 [Translators manual](/my-web/files/translators-manual) - 06/2020
-
-This manual was constructed together with the style guide. The manual introduces the project, clarifies the stakeholders and the workflow. Target readers are translators, editors, reviewers, and the project manager. 
+**Context:** I authored a series of blogs for the educational channel of a communication company. This educational channel was part of the company's business activities, others including professional translation services, and localization training courses. Targeting translation students and freelance translators, these blogs were designed to illuminate various aspects of the translation and localization industry, bridging the gap between academic study and practical application in a professional setting.
 
 ---
-🔖 You can also see my [Chinese translation of an English literature](/my-web/files/cn-translation), note that this sample is written in Chinese.
+📌 [Style Guide](/my-web/files/translation-style-guide) 
+
+**Context:** This Style Guide, developed alongside the translator's manual, is designed to standardize and refine the translation process for literary works. It aims to serve translators, editors, reviewers, and the project manager by establishing clear stylistic and linguistic standards, ensuring the translated work resonates with the target audience while staying true to the original's spirit.
+
+---
+📌 [Translators manual](/my-web/files/translators-manual) 
+
+**Context:** This manual, developed in conjunction with the Style Guide, serves as a comprehensive roadmap for a literary translation project. Target readers are translators, editors, reviewers, and the project manager. 
+
+---
+📌 You can also see my [Chinese translation of an English literature](/my-web/files/cn-translation), note that this sample is written in Chinese.

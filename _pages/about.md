@@ -1,17 +1,14 @@
 ---
 permalink: /
-title: "Hello there, I'm Audrey!"
+title: "Hello and welcome, I'm Audrey!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-### 🧗‍♀️ Who am I
-I am proactive team player, a focused learner, and an organized multi-tasker. 
+I'm a passionate graduate student in Linguistic Data Sciences at the University of Eastern Finland, eagerly setting out on my professional journey in the world of technical writing. With a foundation built on four years of working, I've honed my skills in writing and translation, navigating the intricate dance of words to communicate complex ideas with clarity and precision.
 
-### 🧞‍♂️ What do I believe
-Put focus on "I AM doing this", instead of "how am I going to do this". As stated by Kierkegaard, confidence does not root in the removal of doubt, but rather the attitude that we can move ahead despite doubt and anxiety. 
+This website is a showcase of my experiences and skills. Feel free to explore my projects and writing samples to get a sense of my expertise and style. You can also see a one-page PDF CV with selected experiences [here](/my-web/files/cv-audrey.pdf). 
 
-### 🖋️ What's on this page
-Here, you can find various types of content I have written over the past four years. You can also find my detailed CV, and a one-page PDF version with selected experiences.   
+Thank you for stopping by!

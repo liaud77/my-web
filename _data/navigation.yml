@@ -4,17 +4,14 @@ main:
   - title: "Writing Samples"
     url: /portfolio/
 
-  - title: "CV"
-    url: /cv/
-
-  # - title: "Introduction Video"
-  #  url: /introduction-video/    
-
-  #- title: "Teaching"
-  #  url: /teaching/    
+  - title: "Education"
+    url: /education/       
         
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Experiences"
+    url: /experiences/
+
+  - title: "Skills"
+    url: /skills/ 
     
   #- title: "Guide"
   #  url: /markdown/

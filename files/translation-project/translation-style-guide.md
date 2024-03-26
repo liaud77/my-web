@@ -5,7 +5,27 @@ date: "2020-06-10"
 permalink: /files/translation-style-guide
 ---
 
-Table of Contents
+Jump to the writing sample from [here](#sg-content). 
+
+### Context
+This Style Guide, developed alongside the translator's manual, is designed to standardize and refine the translation process for literary works. It aims to serve translators, editors, reviewers, and the project manager by establishing clear stylistic and linguistic standards, ensuring the translated work resonates with the target audience while staying true to the original's spirit.
+
+### Problem
+Literary translation is an intricate art that requires not only linguistic accuracy but also cultural sensitivity and stylistic precision. The absence of detailed stylistic guidelines can lead to inconsistencies in tone, style, and voice across different sections of the translated work, potentially compromising the original's literary qualities and diminishing the reader's experience.
+
+### Contribution
+To enhance the quality and coherence of literary translations, I contributed to the Style Guide by:
+- Integrating insights from literary translation theory and practice to formulate clear, applicable stylistic rules.
+- Collaborating with linguists, literary scholars, and the project team to ensure the guidelines accommodate both linguistic fidelity and literary style.
+- Establishing guidelines that balance the need for accuracy with the creative liberties necessary to capture the original's tone and intent.
+
+### Impact 
+By providing translators with a set of standardized stylistic parameters, this Style Guide enhances the readability and appeal of the translated work, fostering a deeper appreciation of the original literary masterpiece among a new audience. Ultimately, the guide aids in maintaining the integrity of the translation, facilitating a successful cultural and linguistic transfer.
+
+---
+<a id="sg-content"></a>
+
+**Table of Contents**
 - [01. Annotation](#01-annotation)
 - [02. Formatting](#02-formatting)
   - [2.1 Font](#21-font)

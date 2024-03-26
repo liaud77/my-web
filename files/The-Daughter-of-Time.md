@@ -5,6 +5,9 @@ date: "2021-01-06"
 permalink: /files/cn-translation
 ---
 
+> This is an English to Chinese translation of the novel *The Daught of Time* (excerpt). 
+
+
 # Chinese Translation
 格兰特躺在一架白色的折叠床上，嫌恶地盯着天花板。他能认出这块干净整洁的天花板上的每一条裂缝。天花板是格兰特在心里规划出的一片土地，他为它制定地图，神游在山川与陆岛之间；天花板也是他的探宝之地，他一个人既出谜又解谜，探出其间隐藏的神秘面庞和飞鸟游鱼；这天花板对他而言还是一道算术题，求出的解是他的童年回忆，他的人生信条、上下求索和交往关系 [注：这三个词在英文中均可用作数学术语]。除了恨恨地盯着这块天花板，他根本无事可干。
 
