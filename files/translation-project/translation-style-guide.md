@@ -5,7 +5,7 @@ date: "2020-06-10"
 permalink: /files/translation-style-guide
 ---
 
-Jump to the writing sample from [here](#sg-content). 
+Jump to the writing sample from 👉 [here](#sg-content). 
 
 ### Context
 This Style Guide, developed alongside the translator's manual, is designed to standardize and refine the translation process for literary works. It aims to serve translators, editors, reviewers, and the project manager by establishing clear stylistic and linguistic standards, ensuring the translated work resonates with the target audience while staying true to the original's spirit.
@@ -26,23 +26,24 @@ By providing translators with a set of standardized stylistic parameters, this S
 <a id="sg-content"></a>
 
 **Table of Contents**
-- [01. Annotation](#01-annotation)
-- [02. Formatting](#02-formatting)
-  - [2.1 Font](#21-font)
-  - [2.2 Font Size, Line Spacing, and Starting a New Page](#22-font-size-line-spacing-and-starting-a-new-page)
-  - [2.3 Spaces](#23-spaces)
-- [03. Punctuation Before and After Quotations](#03-punctuation-before-and-after-quotations)
-  - [3.1 Conform to English Conventions](#31-conform-to-english-conventions)
-  - [3.2 Conform to Chinese Conventions](#32-conform-to-chinese-conventions)
-- [04. Personal and Place Names](#04-personal-and-place-names)
-- [05. Numbers](#05-numbers)
-  - [5.1 Time Representation](#51-time-representation)
-  - [5.2 General Numbers](#52-general-numbers)
-  - [5.3 Number Ranges](#53-number-ranges)
-  - [5.4 Large Numbers](#54-large-numbers)
-- [06. References](#06-references)
+- [1. Annotation](#1-annotation)
+- [2. Formatting](#2-formatting)
+  - [Font](#font)
+  - [Font Size, Line Spacing, and Starting a New Page](#font-size-line-spacing-and-starting-a-new-page)
+  - [Spaces](#spaces)
+- [3. Punctuation Before and After Quotations](#3-punctuation-before-and-after-quotations)
+  - [Conform to English Conventions](#conform-to-english-conventions)
+  - [Conform to Chinese Conventions](#conform-to-chinese-conventions)
+- [4. Personal and Place Names](#4-personal-and-place-names)
+- [5. Numbers](#5-numbers)
+  - [Time Representation](#time-representation)
+  - [General Numbers](#general-numbers)
+  - [Number Ranges](#number-ranges)
+  - [Large Numbers](#large-numbers)
+- [6. References](#6-references)
 
-# 01. Annotation
+
+## 1. Annotation
 Provide annotations for content related to history, geography, culture, religion, customs, or lifestyle unfamiliar to the target readers.
 
 Place annotations at each chapter's end with sequential numbering that resets every new chapter. Ensure annotations are concise for easier proofreading and typesetting. Follow the specified format closely:
@@ -59,9 +60,9 @@ End of chapter:
 
 [2] Chris Anderson: Since 2001, he has served as the editor-in-chief of Wired magazine in the United States and has published works such as *The Long Tail* and *Free: The Future of a Radical Price*.
 
-# 02. Formatting
+## 2. Formatting
 Preserve in the translated text the corresponding formats that the author intentionally used in the original text, as they carry specific meanings and functions. 
-## 2.1 Font
+### Font
 Use matching fonts in the translation for font changes and combinations in the original text, with the following exceptions when translating into Chinese:
 
 **Exception 1: Italics in Source Text**
@@ -72,21 +73,23 @@ Use matching fonts in the translation for font changes and combinations in the o
 - Convert all words in all caps from the source text to boldface, maintaining standard text formatting.
 - Retain normal text formatting for specific capitalized terms, such as names of institutions or organizations.
 
-## 2.2 Font Size, Line Spacing, and Starting a New Page
+### Font Size, Line Spacing, and Starting a New Page
 Retain the original changes in font size, line spacing, and page breaks in chapter titles and main text whenever possible.
-## 2.3 Spaces
+### Spaces
 Keep the following original text formats:
 - left or right indentations in paragraphs;
 - intentional irregular arrangements in poetry (distinguished from line breaks);
 - intentional spaces or line breaks in the main text.
 
-# 03. Punctuation Before and After Quotations
-## 3.1 Conform to English Conventions
+## 3. Punctuation Before and After Quotations
+
+### Conform to English Conventions
 - The dialogue ends after the quotation: "……," he said.
 - The dialogue does not end after the quotation,
   - The first quotation is not complete: "……," he said, "……."
   - The first quotation is complete: "……," he said. "……."
-## 3.2 Conform to Chinese Conventions
+
+### Conform to Chinese Conventions
 - The dialogue ends after the quotation: "……." he said.
 - The dialogue does not end after the quotation,
   - The first quotation is not complete: "……," he said, "……."
@@ -94,7 +97,7 @@ Keep the following original text formats:
 
 **Note:** The choice between English or Chinese punctuation conventions is at the translator's discretion due to industry debates. Ensure consistency throughout a project.
 
-# 04. Personal and Place Names
+## 4. Personal and Place Names
 Follow the guidelines provided by the reference books below. Use transliteration guidelines for names not found, including those invented by the author.
 
 **Note:** Use established translations for well-known figures and locations such as *Shakespeare* and *Times Square*.
@@ -104,20 +107,23 @@ Follow the guidelines provided by the reference books below. Use transliteration
 - **American Place Names Dictionary** (China Commercial Press, 2000) for the translation of place names in America
 - **Dictionary of World Place Names** (Encyclopedia of China Publishing House, 1984) for the translation of place names in other countries 
 
-# 05. Numbers
-## 5.1 Time Representation
+## 5. Numbers
+### Time Representation
 - Always use Arabic numerals for time-related numbers (centuries, years, months, days, hours, minutes, seconds).
-## 5.2 General Numbers
+
+### General Numbers
 - For numbers up to and including 10, use Arabic numerals.
 - For numbers greater than 10, use Chinese characters, except when mixing numbers smaller and larger than 10 in the same context; in such cases, use Arabic numerals for all.
-## 5.3 Number Ranges
+
+### Number Ranges
 - Describe ranges with Chinese characters.
 - For ranges exceeding 100 with specific reference numbers, use Arabic numerals.
-## 5.4 Large Numbers
+
+### Large Numbers
 - For numbers exceeding 10,000, substitute "万" for 10,000 and "亿" for 100,000,000 in Chinese characters.
 - Insert a space every three digits for clarity, e.g., "4 500" seconds, "54 000" units.
 
-# 06. References
+## 6. References
 - Follow the guidelines provided by *English-Chinese Dictionary (Shanghai Translation Publishing House, 2005)* for English-Chinese text. 
 - Follow the standardization outlined in *Contemporary Chinese Dictionary (Chinese Academy of Social Sciences, 2005)* to avoid errors in Chinese translation. 
 

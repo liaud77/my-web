@@ -5,7 +5,7 @@ date: "2020-06-24"
 permalink: /files/translators-manual
 ---
 
-Jump to the writing sample from [here](#manual-content). 
+Jump to the writing sample from 👉 [here](#manual-content). 
 
 ### Context
 This manual, developed in conjunction with the Style Guide, serves as a comprehensive roadmap for a literary translation project. Target readers are translators, editors, reviewers, and the project manager. 

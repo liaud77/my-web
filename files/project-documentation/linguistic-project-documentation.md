@@ -5,7 +5,7 @@ date: "2024-03-16"
 permalink: /files/project-documentation
 ---
 
-Jump to the writing sample from [here](#project-content). 
+Jump to the writing sample from 👉 [here](#project-content). 
 
 ### Context
 This was an academic solo project, using R packages to analyze the linguistic features of two written corpora. This project was completed within a month, the audience is any corpus linguistic student who is interested in applying R to linguistic research. 

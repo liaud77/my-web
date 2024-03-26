@@ -6,7 +6,7 @@ collection: portfolio
 permalink: /files/tutorial
 ---
 
-Jump to the writing sample from [here](#tutorial-content).
+Jump to the writing sample from 👉 [here](#tutorial-content).
 
 ### Context
 This guide offers a step-by-step account migration process for the Fediverse community, focusing on transitioning from Firefish to Mastodon. Drawing from my experiences with both platforms and recognizing a gap in available resources, this tutorial aims to assist Fediverse users unfamiliar with navigating between different projects.

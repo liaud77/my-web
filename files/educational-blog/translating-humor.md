@@ -5,7 +5,7 @@ date: "2021-06-16"
 permalink: /files/translating-humor
 ---
 
-Jump to the writing sample from [here](#blog-content). 
+Jump to the writing sample from 👉 [here](#blog-content). 
 
 ### Context
 I authored a series of blogs for the educational channel of a communication company. This educational channel was part of the company's business activities, others including professional translation services, and localization training courses. Targeting translation students and freelance translators, these blogs were designed to illuminate various aspects of the translation and localization industry, bridging the gap between academic study and practical application in a professional setting.
