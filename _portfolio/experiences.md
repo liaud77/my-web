@@ -65,7 +65,7 @@ permalink: /experiences/
 
 10/2019 - 06/2020
 
-**Context:** Contributing to 3 sections of the company's business activities: translation services, training courses, social media management. 
+**Context:** Contributing to 3 sections of the company's services: translation service, training courses, social media management. 
 
 - **Content Writing:** Created over 40,000 words of bilingual content for the company’s education channel, covering topics including translation studies, linguistic quality assurance, and localization strategies.
 - **Community Operations:** Managed a translation-learning community of 300 members, adopted a reciprocal study system, driving a 25% engagement increase.
