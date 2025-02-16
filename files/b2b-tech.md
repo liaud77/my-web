@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-permalink: /b2b-tech/
+permalink: files/b2b-tech/
 ---
 
 # OT, ICS, SCADA Explained: Simplifying Complex Industrial Systems
