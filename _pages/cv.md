@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-See pdf version [here](/my-web/files/cv-audrey.pdf).
-
 ## EDUCATION
 **M.A. in Linguistic Data Sciences** - *University of Eastern Finland* 
 

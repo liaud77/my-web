@@ -1,14 +1,10 @@
 ---
 permalink: /
-title: "Hello and welcome, I'm Audrey!"
+title: "Hi there 👋 I'm Audrey!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a passionate graduate student in Linguistic Data Sciences at the University of Eastern Finland, eagerly setting out on my professional journey in the world of technical communication. With a foundation built on four years of working, I've honed my skills in writing and translation, navigating the intricate dance of words to communicate complex ideas with clarity and precision.
-
-This website is a showcase of my experiences and skills. Feel free to explore my projects and writing samples to get a sense of my expertise and style. You can also see a one-page PDF CV with selected experiences [here](/my-web/files/cv-audrey.pdf). 
-
-Thank you for stopping by!
+You can find my portfolio on this site, I'm experienced in SEO content creation for various fields, mostly B2B. SaaS, Tech, and E-Commerce are my expertise. I also have experience in B2C content, although the strategy between 2B and 2C are different, they share a common core principle---creating useful content to the user/reader. I love what I do as a content marketer, who studies what the user likes, and how the brand can appeal to the users in its unique way. 

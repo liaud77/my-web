@@ -6,29 +6,31 @@ permalink: /portfolio/
 
 In this page, you can see a list of my English writing samples.
 
-📌 [Tutorial](/my-web/files/tutorial) 
+📌 [OT, ICS, SCADA Explained: Simplifying Complex Industrial Systems](/my-web/files/b2b-tech) 
 
-**Context:** I authored this tutorial as a step-by-step account migration guide for the Fediverse community, focusing on transitioning from Firefish to Mastodon. Drawing from my experiences with both platforms and recognizing a gap in available resources, this tutorial aims to assist Fediverse users unfamiliar with navigating between different projects.  
-
----
-📌 [Linguistic Project Documentation](/my-web/files/project-documentation) 
-
-**Context:** This was an academic solo project, using R packages to analyze the linguistic features of two written corpora. This project was completed within a month, the audience is any corpus linguistic student who is interested in applying R to linguistic research. 
+- This was published as a learning resource on the client's website, with the keyword *ot ics scada*.  
+- The client is a leading B2B tech company specializing in secure data communication solutions, with a strong market presence and a valuation in the billions. 
 
 ---
-📌 [Educational Blog](/my-web/files/translating-humor) 
-
-**Context:** I authored a series of blogs for the educational channel of a communication company. This educational channel was part of the company's business activities, others including professional translation services, and localization training courses. Targeting translation students and freelance translators, these blogs were designed to illuminate various aspects of the translation and localization industry, bridging the gap between academic study and practical application in a professional setting.
-
----
-📌 [Style Guide](/my-web/files/translation-style-guide) 
-
-**Context:** This Style Guide, developed alongside the translator's manual, is designed to standardize and refine the translation process for literary works. It aims to serve translators, editors, reviewers, and the project manager by establishing clear stylistic and linguistic standards, ensuring the translated work resonates with the target audience while staying true to the original's spirit.
+📌 [Lat Pulldown: Best Equipment and Tips for Home Gym Training](/my-web/files/e-commerce) 
+ 
+- I wrote the English article for the client's blogs before it's translated into several Nordic languages. 
+- The client is a fast-growing B2C e-commerce brand in the Nordic fitness industry, specializing in premium workout gear and nutritional supplements. 
 
 ---
-📌 [Translator's Manual](/my-web/files/translators-manual) 
+📌 [Clinical Genomics: A Key Component of Modern Healthcare](/my-web/files/healthtech) 
 
-**Context:** This manual, developed in conjunction with the Style Guide, serves as a comprehensive roadmap for a literary translation project. Target readers are translators, editors, reviewers, and the project manager. 
+- I wrote this article as the pillar page for the main keyword that the client wanted to rank for: *clinical genomics*. 
+- The client is a B2B SaaS company specializing in bioinformatics solutions, catering to academic researchers, healthcare professionals, and pharmaceutical companies. 
 
 ---
-📌 You can also see my [Chinese translation of an English literature](/my-web/files/cn-translation), note that this sample is written in Chinese.
+📌 [Pipe Bending Techniques in Fabrication: Best Practices for Precision](/my-web/files/industrial-saas) 
+
+- This is a cluster article for the client's main keyword *pipe fabrication*.
+- The client is a B2B industrial solutions provider specializing in advanced pipe fabrication systems, catering to construction and energy sectors across the Nordics. 
+
+---
+📌 [Step-by-Step Guide to Conducting B2B Market Intelligence](/my-web/files/marketing-saas) 
+
+- This article is a cluster page created for the client's main keyword *market intelligence*. 
+- The client is a B2B SaaS leader in AI-driven marketing analytics, serving enterprise-level businesses globally with a market valuation exceeding $500M. 
