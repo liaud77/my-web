@@ -6,7 +6,7 @@ permalink: files/e-commerce/
 Jump to the article content [here](#content).
 
 ### Context
-- I wrote the English article for the client's blogs before it's translated into several Nordic languages. 
+- I wrote the English article for the client's blogs before it's translated into several Nordic languages. This one targeted the keyword *lat pulldown*. 
 - The client is a fast-growing B2C e-commerce brand in the Nordic fitness industry, specializing in premium workout gear and nutritional supplements. 
 - Due to confidentiality agreements, the brand name and specific business details have been anonymized.
 

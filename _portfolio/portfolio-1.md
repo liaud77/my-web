@@ -14,7 +14,7 @@ In this page, you can see a list of my English writing samples.
 ---
 📌 [Lat Pulldown: Best Equipment and Tips for Home Gym Training](/my-web/files/e-commerce) 
  
-- I wrote the English article for the client's blogs before it's translated into several Nordic languages. 
+- I wrote the English article for the client's blogs before it's translated into several Nordic languages. This one targeted the keyword *lat pulldown*.  
 - The client is a fast-growing B2C e-commerce brand in the Nordic fitness industry, specializing in premium workout gear and nutritional supplements. 
 
 ---

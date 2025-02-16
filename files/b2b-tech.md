@@ -136,7 +136,9 @@ A key factor contributing to the vulnerability of these systems is **their relia
 
 This makes them particularly susceptible to attacks that exploit unpatched vulnerabilities, which, when combined with the often limited security measures like a lack of encryption, creates a fertile ground for cybercriminals.  
 
-The merging of IT and OT further complicates this field. Industrial networks that were once isolated are now increasingly interconnected with IT systems, exposing them to conventional IT-based threats such as malware and ransomware. This convergence brings both worlds together but also **introduces new risks** by bridging the gap between traditionally secure OT environments and the more frequently targeted IT networks.  
+The merging of IT and OT further complicates this field. Industrial networks that were once isolated are now increasingly interconnected with IT systems, exposing them to conventional IT-based threats such as malware and ransomware. 
+
+This convergence brings both worlds together but also **introduces new risks** by bridging the gap between traditionally secure OT environments and the more frequently targeted IT networks.  
 
 Common attack vectors highlight these risks:
 
