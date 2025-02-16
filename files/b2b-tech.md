@@ -29,8 +29,9 @@ Jump to the article content [here](#content).
   
 META DESCRIPTION: Understand the differences between OT, ICS, and SCADA systems in industrial operations. Simplify complex concepts with clear explanations and key insights.
 
-9 min read
+> 9 min read
 
+Table of Contents:
 - [OT, ICS, SCADA Explained: Simplifying Complex Industrial Systems](#ot-ics-scada-explained-simplifying-complex-industrial-systems)
   - [Introduction](#introduction)
   - [Understanding the Core Functions of OT, ICS, and SCADA Systems](#understanding-the-core-functions-of-ot-ics-and-scada-systems)
