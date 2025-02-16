@@ -1,9 +1,8 @@
 ---
-title: "Portfolio"
+title: "Pipe Bending Techniques in Fabrication: Best Practices for Precision"
 permalink: files/industrial-saas/
 ---
 
-# Pipe Bending Techniques in Fabrication: Best Practices for Precision
 Jump to the article content [here](#content).
 
 ### Context
@@ -25,9 +24,35 @@ Jump to the article content [here](#content).
 
 <a id="content"></a>
 
+# Pipe Bending Techniques in Fabrication: Best Practices for Precision
+
 META DESCRIPTION: Learn essential pipe bending techniques and best practices for precision. Master mandrel, rotary draw, compression, roll, and heat induction bending efficiently.
 
 > 9 min read
+
+Table of Contents:
+- [Pipe Bending Techniques in Fabrication: Best Practices for Precision](#pipe-bending-techniques-in-fabrication-best-practices-for-precision)
+  - [Introduction](#introduction)
+  - [The Basics of How Pipe Bending Works](#the-basics-of-how-pipe-bending-works)
+  - [Key Pipe Bending Terms You Should Know](#key-pipe-bending-terms-you-should-know)
+  - [Common Pipe Bending Techniques and Their Limits](#common-pipe-bending-techniques-and-their-limits)
+    - [1. Mandrel Bending](#1-mandrel-bending)
+    - [2. Rotary Draw Bending](#2-rotary-draw-bending)
+    - [3. Compression Bending](#3-compression-bending)
+    - [4. Roll Bending](#4-roll-bending)
+    - [5. Heat Induction Bending](#5-heat-induction-bending)
+  - [Best Practices for Precision in Pipe Bending](#best-practices-for-precision-in-pipe-bending)
+    - [1. Pre-Bending Preparation](#1-pre-bending-preparation)
+    - [2. Calculate Bend Allowance and Deduction](#2-calculate-bend-allowance-and-deduction)
+    - [3. Maintain Consistent Speed and Force](#3-maintain-consistent-speed-and-force)
+    - [4. Quality Control Measures and Inspections](#4-quality-control-measures-and-inspections)
+  - [Wrapping Up](#wrapping-up)
+  - [FAQ](#faq)
+    - [How do you bend a pipe?](#how-do-you-bend-a-pipe)
+    - [What is the rule of thumb for pipe bending?](#what-is-the-rule-of-thumb-for-pipe-bending)
+    - [How do you calculate bend?](#how-do-you-calculate-bend)
+    - [Do you add or subtract when bending pipe?](#do-you-add-or-subtract-when-bending-pipe)
+    - [Which pipe bending method is simplest?](#which-pipe-bending-method-is-simplest)
 
 ## Introduction
 

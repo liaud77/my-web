@@ -1,9 +1,8 @@
 ---
-title: "Portfolio"
+title: "Clinical Genomics: A Key Component of Modern Healthcare"
 permalink: files/healthtech/
 ---
 
-# Clinical Genomics: A Key Component of Modern Healthcare
 Jump to the article content [here](#content). 
 
 ### Context
@@ -26,9 +25,34 @@ Jump to the article content [here](#content).
 
 <a id="content"></a>
 
+# Clinical Genomics: A Key Component of Modern Healthcare
+
 META DESCRIPTION: Discover how clinical genomics is transforming modern healthcare. Learn its key components, challenges, and future advancements in this comprehensive overview.
 
 > 10 min reading
+
+Table of Contents:
+- [Clinical Genomics: A Key Component of Modern Healthcare](#clinical-genomics-a-key-component-of-modern-healthcare)
+  - [Introduction](#introduction)
+  - [Clinical Genomics: Definition and Its Role in Modern Healthcare](#clinical-genomics-definition-and-its-role-in-modern-healthcare)
+  - [Key Elements of Accurate Genomic Testing and Data Interpretation](#key-elements-of-accurate-genomic-testing-and-data-interpretation)
+    - [Sample Quality Control](#sample-quality-control)
+    - [Data Analysis and Validation](#data-analysis-and-validation)
+    - [Variant Interpretation](#variant-interpretation)
+  - [Challenges and Regulatory Considerations in Clinical Genomics](#challenges-and-regulatory-considerations-in-clinical-genomics)
+    - [Data Interpretation and Maintaining Accuracy](#data-interpretation-and-maintaining-accuracy)
+    - [Regulatory Compliance (GDPR, HIPAA, IVDR)](#regulatory-compliance-gdpr-hipaa-ivdr)
+    - [Ensuring Quality Assurance and Standardization](#ensuring-quality-assurance-and-standardization)
+  - [The Future of Clinical Genomics: Innovations and Integration](#the-future-of-clinical-genomics-innovations-and-integration)
+  - [Conclusion](#conclusion)
+  - [FAQ](#faq)
+    - [What is clinical genomics?](#what-is-clinical-genomics)
+    - [How does clinical genomics improve patient care?](#how-does-clinical-genomics-improve-patient-care)
+    - [What is the role of clinical genomics in disease diagnosis?](#what-is-the-role-of-clinical-genomics-in-disease-diagnosis)
+    - [Why is quality control important in clinical genomics?](#why-is-quality-control-important-in-clinical-genomics)
+    - [What challenges are associated with clinical genomics?](#what-challenges-are-associated-with-clinical-genomics)
+  - [References](#references)
+
 
 ## Introduction
 

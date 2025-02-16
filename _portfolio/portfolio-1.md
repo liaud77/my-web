@@ -33,4 +33,4 @@ In this page, you can see a list of my English writing samples.
 📌 [Step-by-Step Guide to Conducting B2B Market Intelligence](/my-web/files/marketing-saas) 
 
 - This article is a cluster page created for the client's main keyword *market intelligence*. 
-- The client is a B2B SaaS leader in AI-driven marketing analytics, serving enterprise-level businesses globally with a market valuation exceeding $500M. 
+- The client is a B2B SaaS leader in AI-driven marketing analytics, serving enterprise-level businesses globally with a market valuation exceeding $50M. 

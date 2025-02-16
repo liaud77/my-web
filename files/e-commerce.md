@@ -1,9 +1,8 @@
 ---
-title: "Portfolio"
+title: "Lat Pulldown: Best Equipment and Tips for Home Gym Training"
 permalink: files/e-commerce/
 ---
 
-# Lat Pulldown: Best Equipment and Tips for Home Gym Training
 Jump to the article content [here](#content).
 
 ### Context
@@ -26,9 +25,37 @@ Jump to the article content [here](#content).
 
 <a id="content"></a>
 
+# Lat Pulldown: Best Equipment and Tips for Home Gym Training
+
 META DESCRIPTION: Master lat pulldowns with our step-by-step guide\! Learn proper technique, avoid common mistakes, and choose the best equipment for your home gym.
 
 > 7 min read
+
+Table of Contents:
+- [Lat Pulldown: Best Equipment and Tips for Home Gym Training](#lat-pulldown-best-equipment-and-tips-for-home-gym-training)
+  - [Introduction](#introduction)
+  - [What is Lat Pulldown?](#what-is-lat-pulldown)
+  - [Step-by-Step Guide to Correct Form and Technique](#step-by-step-guide-to-correct-form-and-technique)
+    - [1. Adjust the Equipment](#1-adjust-the-equipment)
+    - [2. Grip the Bar](#2-grip-the-bar)
+    - [3. Set Your Starting Position](#3-set-your-starting-position)
+    - [4. Initiate the Pull](#4-initiate-the-pull)
+    - [5. Pause at the Bottom](#5-pause-at-the-bottom)
+    - [6. Controlled Return](#6-controlled-return)
+    - [7. Repeat](#7-repeat)
+  - [Common Mistakes to Avoid When Performing Lat Pulldowns](#common-mistakes-to-avoid-when-performing-lat-pulldowns)
+  - [Choosing the Best Lat Pulldown Equipment for Home Gym Training](#choosing-the-best-lat-pulldown-equipment-for-home-gym-training)
+    - [Practical Option: Plate-Loaded Machines](#practical-option-plate-loaded-machines)
+    - [Premium Option: Selectorized Machines](#premium-option-selectorized-machines)
+    - [Versatile Option: Cable Systems](#versatile-option-cable-systems)
+  - [Conclusion](#conclusion)
+  - [FAQ](#faq)
+    - [What muscles do lat pulldowns work?](#what-muscles-do-lat-pulldowns-work)
+    - [How to do lat pulldown correctly?](#how-to-do-lat-pulldown-correctly)
+    - [Should I lean back during a lat pulldown?](#should-i-lean-back-during-a-lat-pulldown)
+    - [What is the full form of lat pulldown?](#what-is-the-full-form-of-lat-pulldown)
+    - [Are lat pulldowns necessary?](#are-lat-pulldowns-necessary)
+
 
 ## Introduction
 
