@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-permalink: /marketing-saas/
+permalink: files/marketing-saas/
 ---
 
 # Step-by-Step Guide to Conducting B2B Market Intelligence

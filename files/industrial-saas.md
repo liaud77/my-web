@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-permalink: /industrial-saas/
+permalink: files/industrial-saas/
 ---
 
 # Pipe Bending Techniques in Fabrication: Best Practices for Precision

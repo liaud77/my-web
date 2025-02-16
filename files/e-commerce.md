@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-permalink: /e-commerce/
+permalink: files/e-commerce/
 ---
 
 # Lat Pulldown: Best Equipment and Tips for Home Gym Training

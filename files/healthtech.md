@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-permalink: /healthtech/
+permalink: files/healthtech/
 ---
 
 # Clinical Genomics: A Key Component of Modern Healthcare
