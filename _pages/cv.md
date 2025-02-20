@@ -9,90 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
-## EDUCATION
-**M.A. in Linguistic Data Sciences** - *University of Eastern Finland* 
+- [Professional Experience](#professional-experience)
+- [SKILLS](#skills)
+- [Education](#education)
 
-09/2023 - 03/2025
+## Professional Experience
+**Content Marketing Manager** at *AIContentfy* (startup SEO agency)	
+10/2024 - present | Helsinki, Finland
+- **Client Pioneering**: Created SEO briefs, developed a structured brief template, and wrote first articles to establish content quality; my template became the team SOP for all new clients after resolving a 2-month approval bottleneck. 
+- **Team Leadership**: Managed 6 junior writers, overseeing onboarding, content review & quality control; solved quality issues by coaching instead of excessive revisions, improving writer retention & efficiency.
+- **Process Optimization**: Developed multi-media SOPs and learning resources, streamlining content workflows; reduced writer onboarding time from two days to half a day and established continuous feedback loops for ongoing improvement.
 
-  - *Main Courses: Python Programming for Linguistic Research, Methods in Language Technology, Learning Analytics, Statistics and Data Visualisation for Linguistics*
+**SEO Content Marketer** at *AIContentfy* (startup SEO agency)	
+04/2024 - 10/2024 | Helsinki, Finland
+- **Content Research**: Used Ahrefs and Semrush to analyze keyword and content gaps (both for sales pitching and content creation), identified competitor opportunities, and adapted to evolving SEO trends, contributing to 10x DR and 30x organic traffic growth for one key account in 6 months.
+- **Content Creation & Strategy**: Built content plans by clustering keywords via Ahrefs (for internal linking), attended client interviews to understand niche topics and navigate client expectations. Writing samples here. 
+- **AI Content Optimization**: Developed advanced prompts, optimized AI drafts for SEO best practices, and published via HubSpot and other CMS; used Google Analytics and Google Search Console to track SEO performance; took on key client content 3 months after starting, revamped prompt scripts, establishing my version as the team's new SOP.
 
-**Master of Translation and Interpreting** - *Shanghai International Studies University*        
+**American Client Success** at *Gerson Lehrman Group* (consulting firm) 	
+03/2022 - 10/2022 | Shanghai, China
+- **Project Documentation**: Structured and updated screening questions, experts' onboarding tutorials, and post-interview FAQs. Streamlined the recruiting process to successfully navigate at least 5 recruiting projects per day.  
+- **Expert Recruiting**: Conducted at least 5 recruiting projects per day, sourcing and reaching out to 20 industry experts in the Greater China area per project, and successfully onboarded 15 experts each month.
+- **Client Support**: Solved 10+ inquiries per day, as the primary liaison among candidates, compliance team and clients, to support clients' fast-changing research angles. 
 
-09/2019 - 03/2022
-
-  - *Main Courses: Technical Writing, Translating Documentation, Terminology and Post-editing, Legal Translation*
-  - *GPA: 3.83/4.0*
-
-**Bachelor of Laws** - *Shanghai International Studies University*    
-
-09/2015 - 06/2019
-
-  - *Main Courses: Maritime Law, International Economic Law, Intellectual Property Law, Contract Law*
+**Digitalization Project Management Intern** at *Huazhu Group* (China's biggest hotels group)	
+07/2021 - 01/2022 | Shanghai, China
+- **Project Support**: Monitored schedules of 3 projects (loyalty system, call center, and sales), familiar with MS Project and JIRA. Maintained project documents (loyalty plans, cost monitoring reports, T&Cs). Coordinated with law team to ensure the updated T&Cs conform to GDPR requirements. 
+- **Technical Translation**: Translated (Chinese-English) tutorials, release notes, PRDs, FAQs, progress reports, and exchanging emails for the CRM product team. 
+- **Technical Communication**: As the first contact between China IT team and Germany Marketing team, coordinated marketing materials and technical communications for the company’s Loyalty System Launching Event.
 
 ## SKILLS
+- Content marketing and management: SEO writing, B2B content marketing, Hubspot, Ahrefs, Google Analytics
 - Programming and Documentation: Python, R, SQL, HTML, Markdown, Git, VSCode 
-- Project Management: Jira, MS suite
-- Research and Communication: recruiting, expert interview, desk research, community operations
+- Project Management: Jira, MS suite, Adobe (Ps, Pr)
 - Languages: Chinese (native), English (C1), Japanese (B2)
 
-## PROJECT
-**Freelance Writer** - *Scale AI*
-
-03/2024 - present 
-
-**Context:** Writing and assessing Generative AI tasks (chatbot, API calls, etc.), training AI to generate natural language responses. 
-
-- Prompt Writing: Developed over 300 detailed prompts with various topics for the chatbot program, aimed at making AI conversations more sophisticated and human-like. 
-- Quality Assessment: Evaluated 500+ AI generated responses monthly, rewrite the disqualified ones to adhere to the preset standards.
-- Report Writing: Reviewed and reported the API calls generated by an AI assistant to retrieve information from Google Workspace, translated the technical issues into simplified English, resulting in a 95% accuracy in content relevance. 
-
-**Data Analyst** - *University of Eastern Finland*      
-
-02/2024 - 03/2024
-
-- Documentation: Independently carried out a corpus-based comparative analysis, used VSCode and RStudio to document the research workflow, methodologies, source code, and findings in R and Markdown, before archiving the result in HTML. 
-- Data Analysis: Collected, cleaned and analyzed a corpus containing 1.6 million words. Utilized Python NLTK and online tagging tools for POS and semantic tagging. Completed multiple linguistic analysis with R. 
-- Project Report: Presented the report result using a data-driven, story-telling strategy with Canva, scored high in the final review. 
-  
-## PROFESSIONAL EXPERIENCES
-**Associate, American Client Solutions** - *Gerson Lehrman Group*      
-
-03/2022 - 10/2022
-
-- Project Documentation: Structured and updated screening questions, experts' onboarding tutorials, and post-interview FAQs. Streamlined the recruiting process to successfully navigate at least 5 recruiting projects per day. 
-- Expert Recruiting: Sourced and reached out to 20 industry experts in the Greater China area per project via cold calls, recruiting platforms, and referrals. Achieved a 70% acceptance rate for recruited experts.
-- Client Support: Solved 10+ inquiries per day, as the primary liaison among candidates, compliance team and clients, to support clients' fast-changing research angles. 
-
-**Digitalization Project Management Intern** - *Huazhu Hotels Group*        
-
-07/2021 - 01/2022
-
-- Project Support: Monitored schedules of 3 projects (loyalty system, call center, and sales), familiar with MS Project and JIRA. Maintained project documents (loyalty plans, cost monitoring reports, T&Cs). Coordinated with law team to ensure the updated T&Cs conform to GDPR requirements. 
-- Translation and Documentation: Translated (zh-EN) and maintained software introductions, tutorials, release notes, PRDs, FAQs, and progress reports for the CRM product team. 
-- Technical Communication: As the first contact between China IT team and Germany Marketing team, coordinated marketing materials and technical communications for the company's Loyalty System Launching Event. 
-- Meeting Coordination: Coordinated 60+ meetings between the company's China and Germany teams, and completed every bilingual meeting minutes within a 2-hour timeframe.
-
-**Localization Project Management Intern** - *WorldSkills International*        
-
-07/2020 - 01/2021
-
-- Project Management: Acted as the primary liaison between the Competition Committee and the translation team, tracked project milestones and documentation for streamlined reporting, and consistently delivered tasks within a 48-hour timeframe.
-- Translators Recruiting: Led the selection and onboarding of 8 new translators from nearly 100 candidates through translation assessment. Provided regular quality training for new recruits.
-- Quality Assurance: Initiated a rigorous self- and group-proofreading workflow to maintain exceptional translation quality standards, resulting in my translation team ranking 1st in the final review.
-
-**Instructional Content Creator** - *Shanghai Global Communicator*        
-
-10/2019 - 06/2020
-
-- Content Writing: Created over 40,000 words of bilingual content for the company’s education channel, covering topics including translation studies, linguistic quality assurance, and localization strategies.
-- Community Operations: Managed a translation-learning community of 300 members, adopted a reciprocal study system, driving a 25% engagement increase.
-- Curriculum Development: Designed and prepared multi-media course materials for 20+ localization class, accumulated 500+ attendance in total.
-
-## VOLUNTEER 
-**Translator** - *Project Gutenberg*        
-
-06/2020 - 01/2021
-
-- Used Trados to translate an English novel of 110,000 words into Chinese with two other translators within 3 months.
-- Assured translation quality by constructing the Translators Manual and Style Guide, spearheading a proofreading workflow, and communicating with translators after each review session.
-- Structured, wrote, and updated Translators' Preface and Editing Notes, coordinated between the translation team and the publisher. 
+## Education
+- M.A. in Linguistic Data Sciences | University of Eastern Finland | 09/2023 - 04/2025
+  - Main Courses: Python Programming for Linguistic Research, Methods in Language Technology, Learning Analytics, Statistics and Data Visualisation for Linguistics
+- Master of Translation and Interpreting | Shanghai International Studies University	| 09/2019 - 03/2022
+- Bachelor of Laws | Shanghai International Studies University | 09/2015 - 06/2019

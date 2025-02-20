@@ -1,6 +1,6 @@
 ---
-title: "Experiences"
-permalink: /experiences/
+title: "Experience"
+permalink: /experience/
 ---
 - [Projects](#projects)
 - [Professional Experiences](#professional-experiences)

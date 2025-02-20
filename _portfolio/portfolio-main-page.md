@@ -4,7 +4,7 @@ collection: portfolio
 permalink: /portfolio/
 ---
 
-In this page, you can find my writing samples between 2024-2025.
+In this page, you can find my writing samples from 2024-2025.
 
 📌 [The Pro’s Take: Dust-Free Sanding vs. Traditional Sanding](/my-web/files/machinery) 
 - This is a demo article used in sales pitch for a lead. The article is targeting the keyword in the client's main field, *dustless sanding machine*.
