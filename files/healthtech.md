@@ -1,12 +1,12 @@
 ---
 title: "Clinical Genomics: A Key Component of Modern Healthcare"
-permalink: files/healthtech/
+permalink: files/clinical-genomics-a-key-component-of-modern-healthcare/
 ---
 
 Jump to the article content [here](#content). 
 
 ### Context
-- I wrote this article as the pillar page for the main keyword that the client wanted to rank for: *clinical genomics*. 
+- I wrote this article as the pillar page for the client's learning hub on the topic *clinical genomics*. 
 - The client is a B2B SaaS company specializing in bioinformatics solutions, catering to academic researchers, healthcare professionals, and pharmaceutical companies. 
 - Due to confidentiality agreements, the brand name and specific business details have been anonymized.
 

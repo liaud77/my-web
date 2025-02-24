@@ -1,6 +1,6 @@
 ---
 title: "Pipe Bending Techniques in Fabrication: Best Practices for Precision"
-permalink: files/industrial-saas/
+permalink: files/pipe-bending-techniques-in-fabrication-best-practices-for-precision/
 ---
 
 Jump to the article content [here](#content).

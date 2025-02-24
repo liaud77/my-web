@@ -1,6 +1,6 @@
 ---
 title: "The Pro’s Take: Dust-Free Sanding vs. Traditional Sanding"
-permalink: files/machinery/
+permalink: files/the-pros-take-dust-free-sanding-vs-traditional-sanding/
 ---
 
 Jump to the article content [here](#content). 

@@ -1,6 +1,6 @@
 ---
 title: "Lat Pulldown: Best Equipment and Tips for Home Gym Training"
-permalink: files/e-commerce/
+permalink: files/lat-pulldown-best-equipment-and-tips-for-home-gym-training/
 ---
 
 Jump to the article content [here](#content).

@@ -1,6 +1,6 @@
 ---
 title: "Step-by-Step Guide to Conducting B2B Market Intelligence"
-permalink: files/marketing-saas/
+permalink: files/step-by-step-guide-to-conducting-b2b-market-intelligence/
 ---
 
 Jump to the article content [here](#content). 
