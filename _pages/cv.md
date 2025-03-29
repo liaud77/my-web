@@ -10,14 +10,20 @@ redirect_from:
 {% include base_path %}
 
 - [Professional Experience](#professional-experience)
+  - [Content Marketing Manager\*\*](#content-marketing-manager)
+  - [Digital Content \& Customer Engagement Specialist](#digital-content--customer-engagement-specialist)
+  - [Digital Communications Intern](#digital-communications-intern)
 - [Skills](#skills)
 - [Education](#education)
+  - [M.A. Linguistic Data Sciences](#ma-linguistic-data-sciences)
+  - [M.A. Translation and Interpreting (Chinese-English)](#ma-translation-and-interpreting-chinese-english)
+  - [Bachelor of Laws](#bachelor-of-laws)
 
 ## Professional Experience
-**Content Marketing Manager** at *AIContentfy* (startup SEO agency)	
-
+### Content Marketing Manager** 
+AIContentfy (startup SEO agency), Espoo, Finland	
 04/2024 - 04/2025
-Espoo, Finland
+
 - **Content Strategy**: Identified inefficiencies in content development and led the creation of an SEO content briefing process from scratch. Standardized a briefing template that resolved a two-month client approval bottleneck, ensuring consistent content alignment with niche industry requirements. 
 - **Team Leadership**: Managed and mentored a team of six writers, with two direct reports progressing to key account ownership within two months. Replaced reactive edits with a structured briefing approach, enabling writers to produce high-performing pages that ranked and converted for clients.
 - **Internal Communications**: Translating clients’ technical requirements into actionable guidelines for junior writers. Created internal resources (SOPs, walkthrough videos) that cut onboarding time from two days to half a day, allowing new hires to contribute faster with better accuracy.
@@ -30,18 +36,18 @@ Espoo, Finland
 > - Achieved a ranking jump from #98 to #6 for a cybersecurity industry-leading client’s main keyword, increasing organic traffic by 11K monthly.
 
 
-**Digital Content & Customer Engagement Specialist** at *Gerson Lehrman Group* (consulting firm) 	
-
+### Digital Content & Customer Engagement Specialist
+Gerson Lehrman Group (consulting firm), Shanghai, China
 03/2022 - 10/2022 
-Shanghai, China 
+
 - **Expert Sourcing & Outreach**: Managed 5+ expert sourcing projects daily, generating 20+ qualified leads per project through targeted outreach. Created and optimized cold email and LinkedIn outreach copy tailored to industry verticals and project goals.
 - **Content Creation**: Produced outreach-driven content including LinkedIn posts, industry blogs, ad copy, and interview briefs. Supported APAC expert onboarding through localized, funnel-aligned content.
   
 
-**Digital Communications Intern** at *Huazhu Group* (China's biggest hotels group)	
-
+### Digital Communications Intern
+Huazhu Group (China's biggest hotels group), Shanghai, China
 07/2021 - 01/2022 
-Shanghai, China
+
 - **Market Research**: Supported the China team in researching hotel loyalty programs in Europe, analyzing competitor offerings and customer expectations to inform the product design and positioning of a new Loyalty System tailored for the local market.
 - **Event Coordination**: Supported the Loyalty System launch event by coordinating marketing assets between China and Germany teams, including meeting minutes, one-pagers, PR scripts and presentation decks.
 - **Technical Communication**: Translated and optimized internal CRM system documentation, tutorials, and release notes for the German team during system development. Ensured clarity, maintained version control, and supported alignment between product and end users across teams.
@@ -55,16 +61,18 @@ Shanghai, China
 
 
 ## Education
-**M.A. in Linguistic Data Sciences** - University of Eastern Finland 
-
-09/2023 - 04/2025
+### M.A. Linguistic Data Sciences
+University of Eastern Finland 
+09/2023 - 06/2025
 
 > Main Courses: Python Programming for Linguistic Research, Methods in Language Technology, Learning Analytics, Statistics and Data Visualisation for Linguistics
 
-**Master of Translation and Interpreting** - Shanghai International Studies University	
-
+### M.A. Translation and Interpreting (Chinese-English)
+Shanghai International Studies University	
 09/2019 - 03/2022
 
-**Bachelor of Laws** - Shanghai International Studies University 
+> Main Courses: Document Translation, Legal Translation, Business Translation and interpreting, Machine Translation and Post-editing
 
+### Bachelor of Laws
+Shanghai International Studies University 
 09/2015 - 06/2019
