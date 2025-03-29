@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 - [Professional Experience](#professional-experience)
-  - [Content Marketing Manager\*\*](#content-marketing-manager)
-  - [Digital Content \& Customer Engagement Specialist](#digital-content--customer-engagement-specialist)
+  - [Content Marketing Specialist](#content-marketing-specialist)
+  - [Digital Communications Specialist](#digital-communications-specialist)
   - [Digital Communications Intern](#digital-communications-intern)
 - [Skills](#skills)
 - [Education](#education)
@@ -19,9 +19,11 @@ redirect_from:
   - [M.A. Translation and Interpreting (Chinese-English)](#ma-translation-and-interpreting-chinese-english)
   - [Bachelor of Laws](#bachelor-of-laws)
 
+
 ## Professional Experience
-### Content Marketing Manager** 
+### Content Marketing Specialist  
 AIContentfy (startup SEO agency), Espoo, Finland	
+
 04/2024 - 04/2025
 
 - **Content Strategy**: Identified inefficiencies in content development and led the creation of an SEO content briefing process from scratch. Standardized a briefing template that resolved a two-month client approval bottleneck, ensuring consistent content alignment with niche industry requirements. 
@@ -36,8 +38,9 @@ AIContentfy (startup SEO agency), Espoo, Finland
 > - Achieved a ranking jump from #98 to #6 for a cybersecurity industry-leading client’s main keyword, increasing organic traffic by 11K monthly.
 
 
-### Digital Content & Customer Engagement Specialist
+### Digital Communications Specialist
 Gerson Lehrman Group (consulting firm), Shanghai, China
+
 03/2022 - 10/2022 
 
 - **Expert Sourcing & Outreach**: Managed 5+ expert sourcing projects daily, generating 20+ qualified leads per project through targeted outreach. Created and optimized cold email and LinkedIn outreach copy tailored to industry verticals and project goals.
@@ -46,6 +49,7 @@ Gerson Lehrman Group (consulting firm), Shanghai, China
 
 ### Digital Communications Intern
 Huazhu Group (China's biggest hotels group), Shanghai, China
+
 07/2021 - 01/2022 
 
 - **Market Research**: Supported the China team in researching hotel loyalty programs in Europe, analyzing competitor offerings and customer expectations to inform the product design and positioning of a new Loyalty System tailored for the local market.
@@ -63,16 +67,19 @@ Huazhu Group (China's biggest hotels group), Shanghai, China
 ## Education
 ### M.A. Linguistic Data Sciences
 University of Eastern Finland 
+
 09/2023 - 06/2025
 
 > Main Courses: Python Programming for Linguistic Research, Methods in Language Technology, Learning Analytics, Statistics and Data Visualisation for Linguistics
 
 ### M.A. Translation and Interpreting (Chinese-English)
 Shanghai International Studies University	
+
 09/2019 - 03/2022
 
 > Main Courses: Document Translation, Legal Translation, Business Translation and interpreting, Machine Translation and Post-editing
 
 ### Bachelor of Laws
 Shanghai International Studies University 
+
 09/2015 - 06/2019
