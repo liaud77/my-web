@@ -1,6 +1,6 @@
 ---
 title: "Education"
-permalink: /education/
+#permalink: /education/
 ---
 
 **M.A. in Linguistic Data Sciences** - *University of Eastern Finland* 

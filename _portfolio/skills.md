@@ -1,6 +1,6 @@
 ---
 title: "Skills"
-permalink: /skills/
+#permalink: /skills/
 ---
 
 **Programming and Documentation:** 

@@ -7,11 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Content Marketing Strategist specializing in SEO-driven B2B and B2C content, with expertise in Tech, SaaS, and E-Commerce. I create tailored strategies to boost your brand's visibility, showcase your expertise and authoritativeness. 
+I’m a technical writer with expertise in SEO, computational linguistics, and prompt engineering. As a former translator, I write in both English and Chinese.
 
-- For B2B, I focus on creating value-driven assets like learning resources, industry insights, case studies, and thought leadership content to educate decision-makers and drive lead generation. 
-- For B2C, I prioritize engaging, emotionally resonant content—think social campaigns, product storytelling, and user-generated content—to build brand loyalty and drive conversions.
+These skills give me a strong toolkit: 
+- I can build and manage structured knowledge bases, 
+- design scalable and reusable content workflows, 
+- and optimize documentation for discoverability and long-term maintenance. 
 
-I handle every aspect of the content creation process, from keyword research, content planning and briefing, to writing and optimization. 
+My background in customer success and translation also helps me work efficiently with subject-matter experts (SMEs), gathering the right information and delivering clear outputs for all stakeholders.
 
-Check out my writing samples [here](https://liaud77.github.io/my-web/portfolio/) to see how I’ve delivered unique, tailored content for brands across a variety of styles and industries.
+I’ve worked with clients across industries including B2B SaaS, healthtech, e-commerce, fintech, energy, and manufacturing. In each case, I translate expert knowledge into documentation and content that is accurate, accessible, and aligned with business goals.
+
+On this website, you’ll find my writing samples and experiences.

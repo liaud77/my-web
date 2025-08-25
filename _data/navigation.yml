@@ -1,17 +1,20 @@
 # main links links
 main:
 
-  - title: "Portfolio"
-    url: /portfolio/
-
-  - title: "CV"
-    url: /cv/       
+  - title: "English Writings"
+    url: /en-writings/       
         
-  #- title: "Experiences"
-  #  url: /experiences/
+  - title: "Chinese Writings"
+    url: /cn-writings/
 
-  #- title: "Skills"
-  #  url: /skills/ 
+  - title: "Experience"
+    url: /experience/
+
+  - title: "Testimonials"
+    url: /testimonials/ 
     
-  #- title: "Guide"
-  #  url: /markdown/
+  - title: "Experience"
+    url: /experience/
+
+#- title: "CV"
+  #  url: /cv/
