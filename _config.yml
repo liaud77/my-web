@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Audrey's Home Page"
 title_separator          : "-"
-name                     : &name "Audrey Li"
-description              : &description "SEO Content Marketer"
+name                     : &name "Audrey (Xianjing) Li"
+description              : &description "Technical Writer"
 url                      : "https://liaud77.github.io" #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/my-web" # the subpath of your site, e.g. "/blog"
 repository               : "liaud77/my-web"
@@ -22,11 +22,11 @@ repository               : "liaud77/my-web"
 author:
   # Biographic information
   avatar           : "my-pfp.png"
-  name             : "Audrey Li"
+  name             : "Audrey (Xianjing) Li"
   pronouns         : "she/her"  
-  bio              : "SEO Content Marketer"
+  bio              : "Technical Writer"
   location         : "Uusimaa, Finland"
-  employer         : "University of Eastern Finland"
+  #employer         : "University of Eastern Finland"
   uri              : # URL
   email            : "aud.xianj@gmail.com" 
 
