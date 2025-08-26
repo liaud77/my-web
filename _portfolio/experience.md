@@ -31,14 +31,14 @@ I designed reusable content elements, produced content assets for 3 clients in d
 
 CA, U.S. (Remote)
 
-Supervised Fine-Tuning (SFT) and Reinforcement Learning from Human Feedback (RLHF) for GenAI models, including review of human trainers' work, project communication and documentation. 
+Supervised Fine-Tuning (SFT) and Reinforcement Learning from Human Feedback (RLHF) for GenAI models, covering trainer review, project coordination, and documentation.
 
 *Tools Used: GitHub, VSCode, Slack, Excel*
 
 - Worked cross-functionally with evaluators and PMs to align model behavior with product goals.
-- Designed structured prompts for chatbots, supporting LLM evaluation and iterative refinement.
-- Performed quality control by validating trainer outputs for accuracy and terminology alignment.
-- Produced guidelines and technical docs tailored to client needs for cross-locale teams; translated client requirements into clear instructions, ensuring evaluation trustworthiness.
+- Trained domain-specific LLM with SFT + RLHF on 120k conversation pairs and designed multi-step prompts to stabilize chatbot outputs.
+- Reviewed and refined trainer outputs to enforce accuracy and terminology consistency, reducing labeling errors across projects.
+- Authored technical guidelines and documentation for multilingual teams, translating client specs into clear instructions that ensured trustworthy evaluation results.
 
 ---
 
