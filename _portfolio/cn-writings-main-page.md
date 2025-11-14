@@ -8,6 +8,9 @@ This page features my Chinese writings and translations.
 
 Click the 🔗 icons to view the published site or Google Docs.
 
+## 🧐 Thought Leadership
+Chinese adaptation of an [🔗 industry insight article](https://docs.google.com/document/d/1PGZqkHzy2McuUKYLuJWVS-vowC5XfTe4/edit?usp=sharing&ouid=111817027443758274115&rtpof=true&sd=true), with the purpose of SEO and lead gen. 
+
 ## 🎤 Social Media 
 
 [🔗 Social media management](https://www.xiaohongshu.com/user/profile/66abf187000000001d020b3b?xsec_token=ABWzWoF5bA4nO-1rX-ufRRw9PhXJjHPASGXm3sF9RG8Pg%3D&xsec_source=pc_search) (content, images, videos) for a Xiaohongshu account; grew 2.7k followers in 3 months, built 6 fan groups.
